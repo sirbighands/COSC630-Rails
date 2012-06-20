@@ -26,7 +26,7 @@ end
 def randomRemove(table)
   time1 = Time.now.to_i
   remove = Array(81);
-  for i in 0..60
+  for i in 0..80
     remove[i] = i
   end
   remove = remove.shuffle
@@ -41,8 +41,9 @@ def randomRemove(table)
     if @numberSolutions > 1
       table[val] = tmp
     end
-    puts i
-      if time = Time.now.to_i - time1 > 3
+    puts "#{i} #{@numberSolutions}"
+
+      if time = Time.now.to_i - time1 > 200
         return
       end
   end
@@ -56,6 +57,9 @@ def countSolutions(cnt, table)
     while(table[cnt] && table[cnt]!="" && cnt!=81) #lets try to not have a recursive depth of 81
      cnt =cnt+1
     end
+    if(@numberSolutions > 1)
+      return true;
+    end
 	if(cnt == 81)
 		@numberSolutions= @numberSolutions +1
 		return
@@ -63,7 +67,7 @@ def countSolutions(cnt, table)
 	for val in 1..9
 		if legal(cnt, val, table) == true
 			table[cnt] = val;
-			countSolutions(cnt+1, table);
+			sols = countSolutions(cnt+1, table);
 		end
 	end
 	table[cnt] = ''; 

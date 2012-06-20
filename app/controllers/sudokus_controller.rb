@@ -104,6 +104,9 @@ class SudokusController < ApplicationController
     while(table[cnt] && table[cnt]!="" && cnt!=81) #lets try to not have a recursive depth of 81
       cnt =cnt+1
     end
+    if(@numberSolutions > 1)
+      return;
+    end
     if(cnt == 81)
       @numberSolutions= @numberSolutions +1
       return

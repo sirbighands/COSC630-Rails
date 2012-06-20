@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43ad54e8-0a62-410f-bc17-d15f78fcb07b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sudoku.rb" afterPath="$PROJECT_DIR$/sudoku.rb" />
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +28,16 @@
       <file leaf-file-name="sudokus_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="36" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6448203">
+            <state line="89" column="42" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.7124736">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sudoku.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sudoku.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="4" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,12 +90,12 @@
         <option value="$PROJECT_DIR$/app/models/sudoku.rb" />
         <option value="$PROJECT_DIR$/app/helpers/sudokus_helper.rb" />
         <option value="$PROJECT_DIR$/app/controllers/sudoku.rb" />
-        <option value="$PROJECT_DIR$/sudoku.rb" />
         <option value="$PROJECT_DIR$/app/views/sudokus/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sudokus/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sudokus/_form.html.erb" />
         <option value="$PROJECT_DIR$/public/assets/custom.css" />
         <option value="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" />
+        <option value="$PROJECT_DIR$/sudoku.rb" />
       </list>
     </option>
   </component>
@@ -97,8 +107,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1352" />
-    <option name="y" value="45" />
+    <option name="x" value="1407" />
+    <option name="y" value="190" />
     <option name="width" value="1259" />
     <option name="height" value="876" />
   </component>
@@ -143,38 +153,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,7 +481,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1352" y="45" width="1259" height="876" extended-state="0" />
+    <frame x="1407" y="190" width="1259" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3443396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -647,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sudoku.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="0" selection-start="2379" selection-end="2426" vertical-scroll-proportion="0.8347509">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sudokus/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="33" selection-start="116" selection-end="116" vertical-scroll-proportion="0.17586207">
@@ -689,9 +660,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sudoku.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="4" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="36" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6448203">
+        <state line="89" column="42" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.7124736">
           <folding />
         </state>
       </provider>
