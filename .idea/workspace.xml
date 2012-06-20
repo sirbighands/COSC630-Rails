@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ad54e8-0a62-410f-bc17-d15f78fcb07b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20120620174846_sudoku.rb" afterPath="$PROJECT_DIR$/db/migrate/20120620174846_sudoku.rb" />
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +27,7 @@
       <file leaf-file-name="sudokus_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="108" selection-start="2587" selection-end="2587" vertical-scroll-proportion="0.7526427">
+            <state line="92" column="36" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6448203">
               <folding />
             </state>
           </provider>
@@ -694,7 +691,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="108" selection-start="2587" selection-end="2587" vertical-scroll-proportion="0.7526427">
+        <state line="92" column="36" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.6448203">
           <folding />
         </state>
       </provider>

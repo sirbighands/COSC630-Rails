@@ -90,7 +90,7 @@ class SudokusController < ApplicationController
       else
         removed = removed + 1
       end
-      if (Time.now.to_i - time1) > 2
+      if (Time.now.to_i - time1) > 4
         return 81-removed
       end
     end
