@@ -58,9 +58,7 @@ class SudokusController < ApplicationController
   def createNewSudoku()
     @table = Array.new(81)
     bruteForce(0, @table)
-    puts :difficulty.inspect
     removed = randomRemove(@table)
-    puts removed
     if removed > 40
       diff = "Easy"
     elsif removed > 30

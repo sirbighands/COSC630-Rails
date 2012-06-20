@@ -8,3 +8,20 @@ class Sudoku < ActiveRecord::Migration
     end
 	end
 end
+
+
+
+class Sudoku < ActiveRecord::Migration
+  def self.up
+    change_table :sudokus do |t|
+      t.puzzle :string, :text
+    end
+  end
+
+  def self.down
+    change_table :sudokus do |t|
+      t.puzzle :string, :text
+    end
+  end
+end
+
