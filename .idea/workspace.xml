@@ -2,7 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ad54e8-0a62-410f-bc17-d15f78fcb07b" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\db\migrate\20120620162804_create_sudokus.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\AUTHORS.textile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\README.textile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\TUTORIAL.textile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\buttons\icons\cross.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\buttons\icons\key.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\buttons\icons\tick.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\buttons\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\buttons\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\fancy-type\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\fancy-type\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\doc.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\email.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\external.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\feed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\im.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\visited.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\icons\xls.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\link-icons\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\rtl\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\plugins\rtl\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\print.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\forms.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\grid.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\grid.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\print.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\blueprint\src\typography.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\debug\README.textile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\debug\debug.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\debug\debug.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\generate_stylesheets.feature" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\step_definitions\blueprint_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\blueprint_app.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\blueprint_helpers.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\document_element.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\element_helpers.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\env.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\features\support\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\blueprint.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\compressor.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\core_ext.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\css_parser.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\custom_layout.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\grid.css.erb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\grid_builder.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\namespace.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\semantic_class_names.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\COPYRIGHT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\JIGSAW_COPYRIGHT" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\README.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\XERCES_COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\css-validator-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\css-validator.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\jigsaw.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validate\xerces.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\blueprint\validator.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\compress.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\settings.example.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\lib\validate.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\templates\psd\fixed-width.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\elements.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\forms.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\grid.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\plugins\link-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\sample.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\test-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\test.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Sites\rails_projects\first_app\public\stylesheets\tests\parts\valid.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/first_app.iml" afterPath="$PROJECT_DIR$/.idea/first_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/sudokus_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/sudokus_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/sudoku.rb" afterPath="$PROJECT_DIR$/app/models/sudoku.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sudokus/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/sudokus/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sudokus/index.html.erb" afterPath="$PROJECT_DIR$/app/views/sudokus/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/sudokus/show.html.erb" afterPath="$PROJECT_DIR$/app/views/sudokus/show.html.erb" />
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,34 +120,34 @@
       <file leaf-file-name="sudokus_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="38" selection-start="570" selection-end="646" vertical-scroll-proportion="0.0">
+            <state line="30" column="16" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/sudokus/index.html.erb">
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sudokus/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="71" selection-start="413" selection-end="413" vertical-scroll-proportion="-13.730769">
+            <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sudokus/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.23564357">
+            <state line="14" column="4" selection-start="369" selection-end="369" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sudoku.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/sudoku.rb">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/assets/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="63" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="3" column="18" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08415841">
               <folding />
             </state>
           </provider>
@@ -74,9 +167,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/models/sudoku.rb" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/public/assets/sudoku.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/app/models/sudoku.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/sudokus_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/sudoku.rb" />
+        <option value="$PROJECT_DIR$/sudoku.rb" />
+        <option value="$PROJECT_DIR$/app/views/sudokus/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/sudokus/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/sudokus_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/sudokus/_form.html.erb" />
+        <option value="$PROJECT_DIR$/public/assets/custom.css" />
       </list>
     </option>
   </component>
@@ -88,8 +190,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="width" value="1104" />
+    <option name="x" value="8" />
+    <option name="width" value="1259" />
     <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -160,6 +262,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="first_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -189,28 +309,6 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -240,25 +338,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -432,7 +512,9 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="webrick" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyCover" />
       <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyCover" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
@@ -513,27 +595,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="0" width="1104" height="984" extended-state="0" />
+    <frame x="8" y="0" width="1259" height="984" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3443396" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25288463" sideWeight="0.6556604" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.49756494" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25707546" sideWeight="0.49675325" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3443396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2125523" sideWeight="0.7441038" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25589624" sideWeight="0.5004184" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25589624" sideWeight="0.49372384" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -592,6 +674,43 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/sudokus.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/sudoku.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="28" selection-start="442" selection-end="442" vertical-scroll-proportion="0.22413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="118" selection-end="118" vertical-scroll-proportion="0.08415841">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -599,44 +718,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/sudoku.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="90" selection-end="90" vertical-scroll-proportion="0.08415841">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/sudokus_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sudokus/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="36" selection-start="4469" selection-end="4469" vertical-scroll-proportion="5.1279707">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sudoku.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="0" selection-start="2379" selection-end="2426" vertical-scroll-proportion="0.8347509">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sudokus/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="116" selection-end="116" vertical-scroll-proportion="0.17586207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sudokus/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="71" selection-start="413" selection-end="413" vertical-scroll-proportion="-13.730769">
+        <state line="8" column="8" selection-start="234" selection-end="234" vertical-scroll-proportion="0.23448277">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sudokus_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="38" selection-start="570" selection-end="646" vertical-scroll-proportion="0.0">
+        <state line="30" column="16" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/sudokus/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="69" selection-start="65" selection-end="65" vertical-scroll-proportion="0.032015067">
+        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/sudoku.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/sudokus/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="63" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+        <state line="14" column="4" selection-start="369" selection-end="369" vertical-scroll-proportion="-9.153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/Rakefile">
+    <entry file="file://$PROJECT_DIR$/public/assets/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="176" selection-end="176" vertical-scroll-proportion="0.25612053">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.23564357">
+        <state line="3" column="18" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08415841">
           <folding />
         </state>
       </provider>

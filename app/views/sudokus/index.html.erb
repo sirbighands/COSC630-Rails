@@ -1,19 +1,13 @@
-<h1>Listing sudokus</h1>
-
+<h1>Sudoku Puzzle List</h1>
 <table>
-  <tr>
-    <th>Puzzle</th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
 
 <% @sudokus.each do |sudoku| %>
   <tr>
-    <td><%= sudoku.puzzle %></td>
-    <td><%= link_to 'Show', sudoku %></td>
-    <td><%= link_to 'Edit', edit_sudoku_path(sudoku) %></td>
-    <td><%= link_to 'Destroy', sudoku, confirm: 'Are you sure?', method: :delete %></td>
+    <td>Puzzle number: <%= sudoku.id %></td>
+    <td>Difficulty: <%= sudoku.difficulty %></td>
+    <td><%= link_to 'Play This Puzzle', sudoku %></td>
+    <!--<td><%= link_to 'Edit', edit_sudoku_path(sudoku) %></td>
+    <td><%= link_to 'Destroy', sudoku, confirm: 'Are you sure?', method: :delete %></td>-->
   </tr>
 <% end %>
 </table>

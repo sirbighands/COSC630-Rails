@@ -1,6 +1,5 @@
 class Sudoku < ActiveRecord::Base
   attr_accessible :puzzle
+  attr_accessible :difficulty
 
-  validates :puzzle,  :presence => true,
-                      :length => { :minimum => 81}
 end
